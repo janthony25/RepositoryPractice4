@@ -2,7 +2,7 @@
 
 namespace RepositoryPractice4.Models
 {
-    public class Customer
+    public class tblCustomer
     {
         [Key]
         public int CustomerId { get; set; }
